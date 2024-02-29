@@ -1,0 +1,20 @@
+repo_name: martin-creator/angularmaterial
+report_id: a4de184a2a4efc213f57c5d75061a7d4
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:52:42+00:00'
+requested_by: ajtowf
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/martin-creator/angularmaterial
+  detection_source: Repo Metadata
